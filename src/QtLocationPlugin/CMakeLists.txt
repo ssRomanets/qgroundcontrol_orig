@@ -1,0 +1,73 @@
+qt_add_plugin(QUAVLocation
+    STATIC
+    CLASS_NAME QGeoServiceProviderFactoryQUAV
+    OUTPUT_TARGETS QUAVLocation_targets
+    Providers/BingMapProvider.cpp
+    Providers/BingMapProvider.h
+    Providers/ElevationMapProvider.cpp
+    Providers/ElevationMapProvider.h
+    Providers/EsriMapProvider.cpp
+    Providers/EsriMapProvider.h
+    Providers/GenericMapProvider.cpp
+    Providers/GenericMapProvider.h
+    Providers/GoogleMapProvider.cpp
+    Providers/GoogleMapProvider.h
+    Providers/MapboxMapProvider.cpp
+    Providers/MapboxMapProvider.h
+    Providers/MapProvider.cpp
+    Providers/MapProvider.h
+    QMLControl/QUAVMapEngineManager.cc
+    QMLControl/QUAVMapEngineManager.h
+    QUAVCachedTileSet.cpp
+    QUAVCachedTileSet.h
+    QUAVCacheTile.h
+    QUAVMapEngine.cpp
+    QUAVMapEngine.h
+    QUAVMapTasks.h
+    QUAVMapUrlEngine.cpp
+    QUAVMapUrlEngine.h
+    QUAVTile.h
+    QUAVTileCacheWorker.cpp
+    QUAVTileCacheWorker.h
+    QUAVTileSet.h
+    QGeoFileTileCacheQUAV.cpp
+    QGeoFileTileCacheQUAV.h
+    QGeoMapReplyQUAV.cpp
+    QGeoMapReplyQUAV.h
+    QGeoServiceProviderPluginQUAV.cpp
+    QGeoServiceProviderPluginQUAV.h
+    QGeoTiledMappingManagerEngineQUAV.cpp
+    QGeoTiledMappingManagerEngineQUAV.h
+    QGeoTiledMapQUAV.cpp
+    QGeoTiledMapQUAV.h
+    QGeoTileFetcherQUAV.cpp
+    QGeoTileFetcherQUAV.h
+)
+
+target_link_libraries(QUAVLocation
+    PRIVATE
+        Qt6::Positioning
+        Qt6::Sql
+    PUBLIC
+        Qt6::Core
+        Qt6::Location
+        Qt6::LocationPrivate
+        Qt6::Network
+)
+
+target_include_directories(QUAVLocation
+    PUBLIC
+        ${CMAKE_CURRENT_SOURCE_DIR}
+        ${CMAKE_CURRENT_SOURCE_DIR}/..
+        ${CMAKE_CURRENT_SOURCE_DIR}/../FactSystem
+        ${CMAKE_CURRENT_SOURCE_DIR}/../QmlControls
+        ${CMAKE_CURRENT_SOURCE_DIR}/../Terrain
+        ${CMAKE_CURRENT_SOURCE_DIR}/../Terrain/Providers
+        ${CMAKE_CURRENT_SOURCE_DIR}/../Settings
+        ${CMAKE_CURRENT_SOURCE_DIR}/../Utilities
+        ${CMAKE_CURRENT_SOURCE_DIR}/../Utilities/FileSystem
+        Providers
+        QMLControl
+)
+
+target_link_libraries(${CMAKE_PROJECT_NAME} PRIVATE QUAVLocation)
