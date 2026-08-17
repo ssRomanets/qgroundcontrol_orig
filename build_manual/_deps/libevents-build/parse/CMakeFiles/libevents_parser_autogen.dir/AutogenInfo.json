@@ -1,0 +1,93 @@
+{
+	"BUILD_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse/libevents_parser_autogen",
+	"CMAKE_BINARY_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse",
+	"CMAKE_EXECUTABLE" : "/home/aleksandr/Qt/Tools/CMake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse/CMakeLists.txt",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse/libevents_parser_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "libevents_parser_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse/parser.h",
+			"MU",
+			"EWIEGA46WW/moc_parser.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse/libevents_parser_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse/libevents_parser_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "NDEBUG", "QT_NO_DEBUG" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse",
+		"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse",
+		"/usr/include/c++/13",
+		"/usr/include/aarch64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/aarch64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/aarch64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++20",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse/libevents_parser_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse/CMakeFiles/libevents_parser_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/aleksandr/Qt/6.8.3/gcc_arm64/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/home/aleksandr/Qt/6.8.3/gcc_arm64/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-build/parse/CMakeFiles/libevents_parser_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse/parser.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

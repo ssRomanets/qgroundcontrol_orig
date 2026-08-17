@@ -1,0 +1,14 @@
+# Target labels
+ gstreamer_good_plugins-populate
+# Source files and their labels
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/gstreamer_good_plugins-populate
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/gstreamer_good_plugins-populate.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/gstreamer_good_plugins-populate-complete.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-build.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-configure.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-download.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-install.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-mkdir.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-patch.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-test.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-update.rule

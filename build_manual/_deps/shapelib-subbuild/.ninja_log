@@ -1,0 +1,21 @@
+# ninja log v5
+0	40	1779570592957414514	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-mkdir	33f5c267766827ad
+0	40	1779570592957414514	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-mkdir	33f5c267766827ad
+40	1582	1779570594497402608	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-download	eb6e7638adbd782a
+40	1582	1779570594497402608	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-download	eb6e7638adbd782a
+1582	1638	0	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-update	1b1b0835ddb4f2fe
+1582	1638	0	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-update	1b1b0835ddb4f2fe
+1638	1702	1779570594617401681	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-patch	e01ad44dd89b7909
+1638	1702	1779570594617401681	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-patch	e01ad44dd89b7909
+1702	1764	1779570594680734524	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-configure	b81e0c95c4111d3f
+1702	1764	1779570594680734524	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-configure	b81e0c95c4111d3f
+1764	1811	1779570594727400830	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-build	16a65201a11a0e1b
+1764	1811	1779570594727400830	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-build	16a65201a11a0e1b
+1811	1858	1779570594774067136	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-install	dd479acc0f40fab0
+1811	1858	1779570594774067136	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-install	dd479acc0f40fab0
+1858	1917	1779570594834066672	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-test	51cec09677b7db6d
+1858	1917	1779570594834066672	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-test	51cec09677b7db6d
+1917	2007	1779570594924065977	CMakeFiles/shapelib-populate-complete	9af19a50889013f0
+1917	2007	1779570594924065977	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-done	9af19a50889013f0
+1917	2007	1779570594924065977	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/CMakeFiles/shapelib-populate-complete	9af19a50889013f0
+1917	2007	1779570594924065977	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-done	9af19a50889013f0

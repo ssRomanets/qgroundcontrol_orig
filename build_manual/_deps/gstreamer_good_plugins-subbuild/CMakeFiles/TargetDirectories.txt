@@ -1,0 +1,3 @@
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/gstreamer_good_plugins-populate.dir
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/edit_cache.dir
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/rebuild_cache.dir

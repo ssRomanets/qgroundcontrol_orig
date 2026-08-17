@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/CMakeFiles/sdl_gamecontrollerdb-populate"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/CMakeFiles/sdl_gamecontrollerdb-populate.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/CMakeFiles/sdl_gamecontrollerdb-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/sdl_gamecontrollerdb-populate-prefix/src/sdl_gamecontrollerdb-populate-stamp/sdl_gamecontrollerdb-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/sdl_gamecontrollerdb-populate-prefix/src/sdl_gamecontrollerdb-populate-stamp/sdl_gamecontrollerdb-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/sdl_gamecontrollerdb-populate-prefix/src/sdl_gamecontrollerdb-populate-stamp/sdl_gamecontrollerdb-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/sdl_gamecontrollerdb-populate-prefix/src/sdl_gamecontrollerdb-populate-stamp/sdl_gamecontrollerdb-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/sdl_gamecontrollerdb-populate-prefix/src/sdl_gamecontrollerdb-populate-stamp/sdl_gamecontrollerdb-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/sdl_gamecontrollerdb-populate-prefix/src/sdl_gamecontrollerdb-populate-stamp/sdl_gamecontrollerdb-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/sdl_gamecontrollerdb-populate-prefix/src/sdl_gamecontrollerdb-populate-stamp/sdl_gamecontrollerdb-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/sdl_gamecontrollerdb-populate-prefix/src/sdl_gamecontrollerdb-populate-stamp/sdl_gamecontrollerdb-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sdl_gamecontrollerdb-populate"
+		],
+		"name" : "sdl_gamecontrollerdb-populate"
+	}
+}

@@ -1,0 +1,21 @@
+# ninja log v5
+0	55	1779570577440867778	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-mkdir	6bb85ad4a9bb6032
+0	55	1779570577440867778	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-mkdir	6bb85ad4a9bb6032
+56	1301	1779570578684191504	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-download	f0f5e1402ce21c75
+56	1301	1779570578684191504	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-download	f0f5e1402ce21c75
+1301	1968	0	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-update	715ade88e913b0ba
+1301	1968	0	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-update	715ade88e913b0ba
+1968	2018	1779570579400852632	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-patch	e55ed7f2c5670392
+1968	2018	1779570579400852632	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-patch	e55ed7f2c5670392
+2018	2083	1779570579467518783	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-configure	a0113a2411e9bcba
+2018	2083	1779570579467518783	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-configure	a0113a2411e9bcba
+2084	2147	1779570579530851627	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-build	e1883406e6f3cad9
+2084	2147	1779570579530851627	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-build	e1883406e6f3cad9
+2147	2182	1779570579564184703	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-install	9710f212f69c8c2f
+2147	2182	1779570579564184703	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-install	9710f212f69c8c2f
+2182	2240	1779570579624184239	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-test	ea54bf11a1f0c78d
+2182	2240	1779570579624184239	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-test	ea54bf11a1f0c78d
+2240	2317	1779570579700850314	CMakeFiles/libevents-populate-complete	952479bcb84e48cc
+2240	2317	1779570579700850314	libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-done	952479bcb84e48cc
+2240	2317	1779570579700850314	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/CMakeFiles/libevents-populate-complete	952479bcb84e48cc
+2240	2317	1779570579700850314	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-done	952479bcb84e48cc

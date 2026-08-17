@@ -1,0 +1,21 @@
+# ninja log v5
+2	54	1779570584130816076	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-mkdir	736b892fc46c6ca3
+2	54	1779570584130816076	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-mkdir	736b892fc46c6ca3
+54	1312	1779570585387473030	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-download	244fae3f1d5c4f1
+54	1312	1779570585387473030	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-download	244fae3f1d5c4f1
+1312	1345	0	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-update	4d8b19dbf14b8384
+1312	1345	0	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-update	4d8b19dbf14b8384
+1345	1404	1779570585480805642	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-patch	9e911aa95e52e673
+1345	1404	1779570585480805642	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-patch	9e911aa95e52e673
+1405	1456	1779570585530805256	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-configure	7c4375a4f674d930
+1405	1456	1779570585530805256	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-configure	7c4375a4f674d930
+1457	1508	1779570585584138177	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-build	d035613d650ba9d5
+1457	1508	1779570585584138177	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-build	d035613d650ba9d5
+1508	1570	1779570585647471021	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-install	49bd5722fc647f39
+1508	1570	1779570585647471021	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-install	49bd5722fc647f39
+1570	1619	1779570585694137327	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-test	d05b4a72ae6c8f3f
+1570	1619	1779570585694137327	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-test	d05b4a72ae6c8f3f
+1620	1697	1779570585774136708	CMakeFiles/xz-embedded-populate-complete	2fca293a16721853
+1620	1697	1779570585774136708	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-done	2fca293a16721853
+1620	1697	1779570585774136708	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/CMakeFiles/xz-embedded-populate-complete	2fca293a16721853
+1620	1697	1779570585774136708	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-done	2fca293a16721853

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/CMakeFiles/ulog_cpp-populate"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/CMakeFiles/ulog_cpp-populate.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/CMakeFiles/ulog_cpp-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ulog_cpp-populate"
+		],
+		"name" : "ulog_cpp-populate"
+	}
+}

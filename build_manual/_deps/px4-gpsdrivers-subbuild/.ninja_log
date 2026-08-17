@@ -1,0 +1,21 @@
+# ninja log v5
+0	56	1779570500771459594	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-mkdir	4b7bfd996c3bc0d
+0	56	1779570500771459594	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-mkdir	4b7bfd996c3bc0d
+57	1314	1779570502028116571	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-download	52321079e0ccd6e
+57	1314	1779570502028116571	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-download	52321079e0ccd6e
+1315	2016	0	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-update	1a8c0bfd29e1fe2d
+1315	2016	0	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-update	1a8c0bfd29e1fe2d
+2016	2078	1779570502791444019	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-patch	14372a4c50339c1
+2016	2078	1779570502791444019	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-patch	14372a4c50339c1
+2078	2140	1779570502854776864	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-configure	893ae1f29c7bc298
+2078	2140	1779570502854776864	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-configure	893ae1f29c7bc298
+2140	2199	1779570502914776401	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-build	b44d848086ab94f2
+2140	2199	1779570502914776401	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-build	b44d848086ab94f2
+2200	2234	1779570502948109478	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-install	deed1864f7763631
+2200	2234	1779570502948109478	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-install	deed1864f7763631
+2234	2297	1779570503011442323	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-test	7a38a3bad6943a2a
+2234	2297	1779570503011442323	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-test	7a38a3bad6943a2a
+2297	2374	1779570503088108398	CMakeFiles/px4-gpsdrivers-populate-complete	897a340f32b6605d
+2297	2374	1779570503088108398	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-done	897a340f32b6605d
+2297	2374	1779570503088108398	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/CMakeFiles/px4-gpsdrivers-populate-complete	897a340f32b6605d
+2297	2374	1779570503088108398	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-done	897a340f32b6605d

@@ -1,0 +1,14 @@
+# Target labels
+ px4-gpsdrivers-populate
+# Source files and their labels
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/CMakeFiles/px4-gpsdrivers-populate
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/CMakeFiles/px4-gpsdrivers-populate.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/CMakeFiles/px4-gpsdrivers-populate-complete.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-build.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-configure.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-download.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-install.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-mkdir.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-patch.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-test.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-update.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/CMakeFiles/xz-embedded-populate"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/CMakeFiles/xz-embedded-populate.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/CMakeFiles/xz-embedded-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"xz-embedded-populate"
+		],
+		"name" : "xz-embedded-populate"
+	}
+}

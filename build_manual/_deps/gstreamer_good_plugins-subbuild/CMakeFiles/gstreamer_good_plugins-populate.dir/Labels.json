@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/gstreamer_good_plugins-populate"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/gstreamer_good_plugins-populate.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/CMakeFiles/gstreamer_good_plugins-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/gstreamer_good_plugins-subbuild/gstreamer_good_plugins-populate-prefix/src/gstreamer_good_plugins-populate-stamp/gstreamer_good_plugins-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gstreamer_good_plugins-populate"
+		],
+		"name" : "gstreamer_good_plugins-populate"
+	}
+}

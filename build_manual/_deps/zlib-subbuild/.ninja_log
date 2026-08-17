@@ -1,0 +1,21 @@
+# ninja log v5
+1	41	1779570580267512601	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	a1a0d16b72bf800f
+1	41	1779570580267512601	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	a1a0d16b72bf800f
+42	2134	1779570582360829756	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	20450e3a0bc298af
+42	2134	1779570582360829756	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	20450e3a0bc298af
+2134	2867	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	dc8f041874fdddc0
+2134	2867	0	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	dc8f041874fdddc0
+2867	2904	1779570583127490498	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	c9cff230a45d361
+2867	2904	1779570583127490498	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	c9cff230a45d361
+2904	2966	1779570583190823341	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	d5f5f88687a60bfa
+2904	2966	1779570583190823341	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	d5f5f88687a60bfa
+2967	3001	1779570583227489725	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	a1c20e6c304d35c3
+2967	3001	1779570583227489725	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	a1c20e6c304d35c3
+3001	3048	1779570583274156031	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	964fef2be4737643
+3001	3048	1779570583274156031	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	964fef2be4737643
+3049	3109	1779570583334155567	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	77626c5a284d35d3
+3049	3109	1779570583334155567	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	77626c5a284d35d3
+3109	3187	1779570583410821641	CMakeFiles/zlib-populate-complete	fa18352cbde96699
+3109	3187	1779570583410821641	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	fa18352cbde96699
+3109	3187	1779570583410821641	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	fa18352cbde96699
+3109	3187	1779570583410821641	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	fa18352cbde96699

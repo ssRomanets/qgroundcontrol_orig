@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/CMakeFiles/libevents-populate"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/CMakeFiles/libevents-populate.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/CMakeFiles/libevents-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libevents-populate"
+		],
+		"name" : "libevents-populate"
+	}
+}

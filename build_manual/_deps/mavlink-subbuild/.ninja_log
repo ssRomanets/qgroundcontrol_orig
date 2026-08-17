@@ -1,0 +1,21 @@
+# ninja log v5
+1	61	1779570562770981118	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir	9bf77e60270c59b2
+1	61	1779570562770981118	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir	9bf77e60270c59b2
+61	14081	1779570576790872801	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download	ee028640c5ad817
+61	14081	1779570576790872801	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download	ee028640c5ad817
+14081	14141	0	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update	980817e820ac40f8
+14081	14141	0	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update	980817e820ac40f8
+14141	14188	1779570576897538644	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch	9a92882a900b0d9b
+14141	14188	1779570576897538644	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch	9a92882a900b0d9b
+14188	14251	1779570576960871487	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure	9d32295d27859f7b
+14188	14251	1779570576960871487	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure	9d32295d27859f7b
+14251	14301	1779570577010871101	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build	cac823599d2624d0
+14251	14301	1779570577010871101	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build	cac823599d2624d0
+14301	14366	1779570577077537253	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install	11c8621a9d5cfd70
+14301	14366	1779570577077537253	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install	11c8621a9d5cfd70
+14367	14433	1779570577144203404	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test	918da8607b13ac19
+14367	14433	1779570577144203404	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test	918da8607b13ac19
+14433	14527	1779570577237536016	CMakeFiles/mavlink-populate-complete	64d5a0db254a5037
+14433	14527	1779570577237536016	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-done	64d5a0db254a5037
+14433	14527	1779570577237536016	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate-complete	64d5a0db254a5037
+14433	14527	1779570577237536016	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-done	64d5a0db254a5037

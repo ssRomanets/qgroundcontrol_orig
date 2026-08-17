@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/CMakeFiles/geographiclib-populate"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/CMakeFiles/geographiclib-populate.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/CMakeFiles/geographiclib-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"geographiclib-populate"
+		],
+		"name" : "geographiclib-populate"
+	}
+}

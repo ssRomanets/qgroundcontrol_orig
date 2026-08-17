@@ -1,0 +1,3 @@
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/CMakeFiles/xz-embedded-populate.dir
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/CMakeFiles/edit_cache.dir
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/xz-embedded-subbuild/CMakeFiles/rebuild_cache.dir

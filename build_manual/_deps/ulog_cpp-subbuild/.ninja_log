@@ -1,0 +1,21 @@
+# ninja log v5
+1	27	1779570494671506620	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-mkdir	5ff06aeb1fe93f35
+1	27	1779570494671506620	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-mkdir	5ff06aeb1fe93f35
+28	4577	1779570499221471544	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-download	2a1dcf9f9bffb226
+28	4577	1779570499221471544	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-download	2a1dcf9f9bffb226
+4577	5316	0	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-update	50a81e474f546015
+4577	5316	0	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-update	50a81e474f546015
+5316	5358	1779570500004798838	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-patch	129060a8d54d2a5c
+5316	5358	1779570500004798838	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-patch	129060a8d54d2a5c
+5358	5384	1779570500031465299	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-configure	ebb46569afa565c7
+5358	5384	1779570500031465299	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-configure	ebb46569afa565c7
+5384	5422	1779570500068131683	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-build	13bba68c5ac6a987
+5384	5422	1779570500068131683	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-build	13bba68c5ac6a987
+5423	5453	1779570500098131452	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-install	ec31f6107d59b2f4
+5423	5453	1779570500098131452	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-install	ec31f6107d59b2f4
+5453	5487	1779570500131464528	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-test	8d33fa2154e52855
+5453	5487	1779570500131464528	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-test	8d33fa2154e52855
+5488	5538	1779570500181464143	CMakeFiles/ulog_cpp-populate-complete	19429bbc69dfe6a9
+5488	5538	1779570500181464143	ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-done	19429bbc69dfe6a9
+5488	5538	1779570500181464143	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/CMakeFiles/ulog_cpp-populate-complete	19429bbc69dfe6a9
+5488	5538	1779570500181464143	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/ulog_cpp-subbuild/ulog_cpp-populate-prefix/src/ulog_cpp-populate-stamp/ulog_cpp-populate-done	19429bbc69dfe6a9

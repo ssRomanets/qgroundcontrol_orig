@@ -1,0 +1,6 @@
+libevents_parser_autogen/timestamp: \
+	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse/CMakeLists.txt \
+	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse/parser.cpp \
+	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/libevents/1ea2d34e1cc3658140fb45034b187e87d60c899b/libs/cpp/parse/parser.h \
+	/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake \
+	/home/aleksandr/Qt/Tools/CMake/bin/cmake

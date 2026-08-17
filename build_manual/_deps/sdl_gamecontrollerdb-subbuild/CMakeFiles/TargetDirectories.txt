@@ -1,0 +1,3 @@
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/CMakeFiles/sdl_gamecontrollerdb-populate.dir
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/CMakeFiles/edit_cache.dir
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/sdl_gamecontrollerdb-subbuild/CMakeFiles/rebuild_cache.dir

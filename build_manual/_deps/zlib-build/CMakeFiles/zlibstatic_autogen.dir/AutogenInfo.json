@@ -1,0 +1,244 @@
+{
+	"BUILD_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/zlibstatic_autogen",
+	"CMAKE_BINARY_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f",
+	"CMAKE_EXECUTABLE" : "/home/aleksandr/Qt/Tools/CMake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/CMakeLists.txt",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CheckFunctionExists.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CheckIncludeFile.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CheckTypeSize.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CheckIncludeFile.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CPack.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CPackComponent.cmake",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Templates/CPackConfig.cmake.in",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Templates/CPackConfig.cmake.in",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
+		"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/zlib.pc.cmakein",
+		"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/zconf.h.cmakein"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/zlibstatic_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "zlibstatic_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/zconf.h",
+			"MU",
+			"EJRQKI7XPS/moc_zconf.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/crc32.h",
+			"MU",
+			"EWIEGA46WW/moc_crc32.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/deflate.h",
+			"MU",
+			"EWIEGA46WW/moc_deflate.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/gzguts.h",
+			"MU",
+			"EWIEGA46WW/moc_gzguts.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/inffast.h",
+			"MU",
+			"EWIEGA46WW/moc_inffast.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/inffixed.h",
+			"MU",
+			"EWIEGA46WW/moc_inffixed.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/inflate.h",
+			"MU",
+			"EWIEGA46WW/moc_inflate.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/inftrees.h",
+			"MU",
+			"EWIEGA46WW/moc_inftrees.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/trees.h",
+			"MU",
+			"EWIEGA46WW/moc_trees.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/zlib.h",
+			"MU",
+			"EWIEGA46WW/moc_zlib.cpp",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/zutil.h",
+			"MU",
+			"EWIEGA46WW/moc_zutil.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/zlibstatic_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/zlibstatic_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"NDEBUG",
+		"NO_FSEEKO",
+		"QT_NO_DEBUG",
+		"ZLIB_BUILD",
+		"_LARGEFILE64_SOURCE=1"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build",
+		"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f",
+		"/usr/include/c++/13",
+		"/usr/include/aarch64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/aarch64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/aarch64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++20",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/aleksandr/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/zlibstatic_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/CMakeFiles/zlibstatic_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/aleksandr/Qt/6.8.3/gcc_arm64/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/home/aleksandr/Qt/6.8.3/gcc_arm64/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/zlib-build/CMakeFiles/zlibstatic_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/adler32.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/compress.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/crc32.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/deflate.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/gzclose.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/gzlib.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/gzread.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/gzwrite.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/infback.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/inffast.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/inflate.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/inftrees.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/trees.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/uncompr.c",
+			"MU",
+			null
+		],
+		[
+			"/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/zlib/b6adfce2bc5987edc7cfab3490c73021e521991f/zutil.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,14 @@
+prefix=/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/AppDir/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/OFF
+bindir=${exec_prefix}/OFF
+
+Name: GeographicLib
+Description: A library for geographic projections
+Version: 2.5
+URL: https://geographiclib.sourceforge.io
+
+Requires:
+Libs: -L${libdir} -lGeographicLib
+Cflags: -I${includedir}

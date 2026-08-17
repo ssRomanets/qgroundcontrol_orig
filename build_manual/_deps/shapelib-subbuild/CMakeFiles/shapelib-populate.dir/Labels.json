@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/CMakeFiles/shapelib-populate"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/CMakeFiles/shapelib-populate.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/CMakeFiles/shapelib-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"shapelib-populate"
+		],
+		"name" : "shapelib-populate"
+	}
+}

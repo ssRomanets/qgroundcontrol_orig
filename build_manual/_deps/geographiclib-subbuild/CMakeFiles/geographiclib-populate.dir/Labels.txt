@@ -1,0 +1,14 @@
+# Target labels
+ geographiclib-populate
+# Source files and their labels
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/CMakeFiles/geographiclib-populate
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/CMakeFiles/geographiclib-populate.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/CMakeFiles/geographiclib-populate-complete.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-build.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-configure.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-download.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-install.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-mkdir.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-patch.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-test.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-update.rule

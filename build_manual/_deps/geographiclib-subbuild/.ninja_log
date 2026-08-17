@@ -1,0 +1,21 @@
+# ninja log v5
+1	43	1779570585967468547	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-mkdir	b070c9c02c3a6ee6
+1	43	1779570585967468547	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-mkdir	b070c9c02c3a6ee6
+44	5895	1779570591817423327	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-download	6b85ea196e7760fd
+44	5895	1779570591817423327	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-download	6b85ea196e7760fd
+5895	5944	0	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-update	afd414484566f2
+5895	5944	0	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-update	afd414484566f2
+5944	5966	1779570591887422786	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-patch	46d97e90458ff489
+5944	5966	1779570591887422786	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-patch	46d97e90458ff489
+5966	6027	1779570591950755630	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-configure	5bf9ccc937dd91a8
+5966	6027	1779570591950755630	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-configure	5bf9ccc937dd91a8
+6027	6062	1779570591984088705	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-build	2e528910dc6c330f
+6027	6062	1779570591984088705	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-build	2e528910dc6c330f
+6062	6107	1779570592030755011	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-install	1ebcc56d0b619f3d
+6062	6107	1779570592030755011	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-install	1ebcc56d0b619f3d
+6107	6168	1779570592090754547	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-test	49dc89810f578ae1
+6107	6168	1779570592090754547	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-test	49dc89810f578ae1
+6168	6258	1779570592180753852	CMakeFiles/geographiclib-populate-complete	55d38c803c538b42
+6168	6258	1779570592180753852	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-done	55d38c803c538b42
+6168	6258	1779570592180753852	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/CMakeFiles/geographiclib-populate-complete	55d38c803c538b42
+6168	6258	1779570592180753852	/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-done	55d38c803c538b42

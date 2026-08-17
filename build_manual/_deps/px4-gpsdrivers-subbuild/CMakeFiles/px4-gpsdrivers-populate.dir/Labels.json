@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/CMakeFiles/px4-gpsdrivers-populate"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/CMakeFiles/px4-gpsdrivers-populate.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/CMakeFiles/px4-gpsdrivers-populate-complete.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-build.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-configure.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-download.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-install.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-patch.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-test.rule"
+		},
+		{
+			"file" : "/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"px4-gpsdrivers-populate"
+		],
+		"name" : "px4-gpsdrivers-populate"
+	}
+}

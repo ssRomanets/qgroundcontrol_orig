@@ -1,0 +1,14 @@
+# Target labels
+ mavlink-populate
+# Source files and their labels
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate-complete.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update.rule

@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/usr/bin/cmake;-P;/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/tmp/px4-gpsdrivers-populate-gitclone.cmake
+source_dir=/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/px4-gpsdrivers/ace289105774a9d05d40a1d89798051a4e2937e7
+work_dir=/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/cpm_modules/px4-gpsdrivers
+repository=https://github.com/PX4/PX4-GPSDrivers.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+

@@ -1,0 +1,14 @@
+# Target labels
+ libevents-populate
+# Source files and their labels
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/CMakeFiles/libevents-populate
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/CMakeFiles/libevents-populate.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/CMakeFiles/libevents-populate-complete.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-build.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-configure.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-download.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-install.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-mkdir.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-patch.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-test.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/libevents-subbuild/libevents-populate-prefix/src/libevents-populate-stamp/libevents-populate-update.rule

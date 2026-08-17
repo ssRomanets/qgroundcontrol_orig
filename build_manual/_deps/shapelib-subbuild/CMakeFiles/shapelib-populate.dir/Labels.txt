@@ -1,0 +1,14 @@
+# Target labels
+ shapelib-populate
+# Source files and their labels
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/CMakeFiles/shapelib-populate
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/CMakeFiles/shapelib-populate.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/CMakeFiles/shapelib-populate-complete.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-build.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-configure.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-download.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-install.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-mkdir.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-patch.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-test.rule
+/home/aleksandr/QGC/qgroundcontrol_orig/build_manual/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-update.rule
